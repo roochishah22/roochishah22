@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roochishah22
-- 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence 
+- 👀 I’m interested in Machine Learning, Data Science, and Artificial Intelligence 
 - 🌱 I’m currently learning convex optimizations, advanced algorithms and data structures, artificial intelligence and I'm helping conduct meta-learning research
 - 💞️ I’m looking to collaborate on research and projects
 - 📫 feel free to contact me at roochi.shah22@gmail.com
